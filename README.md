@@ -1,4 +1,4 @@
-# 🧠 Data Science, Machine Learning & Generative AI Notes
+# Data Science, Machine Learning & Generative AI Notes
 
 Welcome to my personal knowledge hub for mastering **Data Science**, **Machine Learning (ML)**, **Deep Learning (DL)**, **Natural Language Processing (NLP)**, and **Generative AI** using Python.
 
@@ -15,7 +15,7 @@ This repository serves as a collection of concise notes, cheat sheets, and hands
 
 ---
 
-## 🧰 Core Libraries Covered
+## Core Libraries Covered
 
 ### 🔹 General Data Science
 - **NumPy**: Arrays, broadcasting, linear algebra
@@ -125,7 +125,7 @@ datascience-python-notes/
 ```
 ---
 
-## 🧪 How to Use This Repo
+## How to Use This Repo
 
 - Explore any folder to dive into that package.
 - Each `README.md` contains:
